@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.neww",
+    "sha256_cert_fingerprints":
+    ["01:4B:AC:C5:F8:F9:51:E8:CB:BD:80:FE:13:A8:62:9F:23:FC:56:24:57:4F:BE:1D:E8:E6:F5:8D:A2:04:0C:52"]
+  }
+}]
